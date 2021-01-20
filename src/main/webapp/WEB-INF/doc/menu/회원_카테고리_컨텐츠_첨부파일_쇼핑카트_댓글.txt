@@ -1,0 +1,9 @@
+   홈: http://localhost:9090/resort_git/index.do
+   로그인: http://localhost:9090/resort_git/member/login.do
+   회원 가입: http://localhost:9090/resort_git/member/create.do
+   로그아웃: http://localhost:9090/resort_git/member/logout.do
+   id 찾기: http://localhost:9090/resort_git/member/id.do
+   pass 찾기: http://localhost:9090/resort_git/member/pass.do
+   게시판:  http://localhost:9090/resort_git/member/pds.do
+   Q/A: http://localhost:9090/resort_git/member/qna.do
+   
