@@ -4,6 +4,6 @@
    로그아웃: http://localhost:9090/resort_git/member/logout.do
    id 찾기: http://localhost:9090/resort_git/member/id.do
    pass 찾기: http://localhost:9090/resort_git/member/pass.do
-   게시판:  http://localhost:9090/resort_git/member/pds.do
-   Q/A: http://localhost:9090/resort_git/member/qna.do
+   게시판:  http://localhost:9090/resort_git/pds/list.do
+   Q/A: http://localhost:9090/resort_git/qna/list.do
    
